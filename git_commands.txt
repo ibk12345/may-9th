@@ -1,0 +1,8 @@
+1)git init-инициализация директории(папки , где будем работать)
+2) git config --global user.name 
+git config --global user.email
+git config --list
+ssh-keygen
+cat ~/.ssh/id_rsa.pub => meta info dlya servera obo mne
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDlZL7v+HwnmSTPewvirB/dYG4nTFmlVvGqrqgP4F3av7NBQbQtzuYfIReqvh3B+Y04Pwa+uiqoyFOyOm21SlYL/ixtMBCydHLil1Tqizt7yQJnkDHcIEx7AX6K5tbl9ij61EB1F/u/kK+uq9lVGseAlL1Ei6DG/PIVfnXs+aMNGm7KnFoflFcRqdy51zMUzmKh85UjPgvD0nb2XBHHzClG+1UZHtpNvFzndItU6Gj9cIZE3oYV8lU7fR5tYNS7uWCvaqE7+Mh/9TYaCctP1vSmIEe/TvYM3jJBKDBJUjpbePeDxaFjDWHgTfXsOO/2VHDrEkt4Op+jM7bQp6hHJZmP1r83RqdlKPWAscqu5i48J5d6f324L5gupRSa5UP7TXSZHHalxuYMSOjbmmzeuJJExAxu0tbmo/dcbL6dNtsrc9owJEn5n3pzEsHs+CALGrjJVoQnxoY5Kvp+PNefTn1QOEgju2Oa3pFCUt+XWBn61Vd4iNcR+ZYixN+eg8My8Vc= user@user-SATELLITE-S50-B
